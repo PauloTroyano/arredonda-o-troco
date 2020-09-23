@@ -1,0 +1,7 @@
+{
+  "name": "Arredonda o Troco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
