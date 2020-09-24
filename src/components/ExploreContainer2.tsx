@@ -9,7 +9,7 @@ const ExploreContainer: React.FC<ContainerProps> = ({ name }) => {
   return (
     <div className="container">
       <strong>{name}</strong>
-      <p><a target="_blank" rel="noopener noreferrer" href="https://sites.google.com/view/mudeomundo/home">Ajude a StartUp Mude o Mundo</a></p>
+      <p><a target="_blank" rel="noopener noreferrer" href="https://sites.google.com/view/mudeomundo/home">Doe o Troco via PagSeguro</a></p>
       
     </div>
   );
